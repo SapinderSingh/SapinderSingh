@@ -15,6 +15,4 @@ Skills: Flutter / Dart / Java / Python
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SapinderSingh&show_icons=true)  
 
-[![trophy](https://github-profile-trophy.vercel.app/SapinderSingh=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![Profile views](https://gpvc.arturio.dev/SapinderSingh)  
